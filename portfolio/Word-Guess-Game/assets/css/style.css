@@ -1,0 +1,40 @@
+.underScore {border-radius: 7px;
+border: 7px solid #4FA5B2;
+width: 500px;
+height: 70px;
+background: #D4E8E7;
+box-shadow: 0 10px 10px #000;
+font-family: sans-serif;
+font-weight: bold;
+color: #085B88;
+font-size: 150%;
+text-align: center;
+}
+
+.wrongGuess {border-radius: 7px;
+    border: 7px solid #4FA5B2;
+    width: 500px;
+    height: 70px;
+    background: #D4E8E7;
+    box-shadow: 0 10px 10px #000;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #085B88;
+    font-size: 150%;
+    text-align: center;
+    }
+
+    body, html {
+        height: 100%;
+      }
+      .bg {
+        /* The image used */
+        background-image: url("../images/background.jpg");
+      
+        /* Full height */
+        height: 100%;
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }

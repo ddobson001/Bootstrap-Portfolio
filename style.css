@@ -22,10 +22,7 @@
     padding: 0 15px;
 }
 
-.body {
-   
 
-}
 
 .main-body {background: #cccccc;}
 
@@ -55,3 +52,11 @@
     color: black;
 }
 
+body {
+    /* Typography */
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  
+    /* Visual */
+    background-image: url("/Bootstrap-Portfolio/assets/image/ignasi_pattern_s.png");
+  }
+  
